@@ -1,0 +1,8 @@
+<paths>
+    <cache-path
+        name="cache_pictures"
+        path="/" />
+    <external-files-path
+        name="meeting_files"
+        path="/" />
+</paths>
